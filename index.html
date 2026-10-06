@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Retail Sales Analysis Dashboard</title>
+<style>
+body{font-family:Inter,Arial,sans-serif;background:#f5f7fb;margin:0;color:#172033}
+header{background:#111827;color:white;padding:42px 8%} header h1{margin:0 0 8px;font-size:34px} header p{opacity:.8}
+.container{max-width:1100px;margin:30px auto;padding:0 20px}
+.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+.card{background:white;border-radius:14px;padding:22px;box-shadow:0 3px 14px #0000000d}
+.kpi{font-size:26px;font-weight:700;margin-top:8px}
+.section{margin-top:25px} .bar{height:30px;background:#e8edf5;border-radius:8px;margin:10px 0;overflow:hidden}
+.fill{height:100%;background:#2563eb;border-radius:8px} table{width:100%;border-collapse:collapse;background:white;border-radius:14px;overflow:hidden}
+th,td{padding:13px;border-bottom:1px solid #edf0f4;text-align:left} th{background:#f8fafc}
+@media(max-width:800px){.grid{grid-template-columns:1fr 1fr}}
+</style></head>
+<body>
+<header><h1>Retail Sales Analysis</h1><p>Business Intelligence Portfolio Project • Python • SQL • Data Visualization</p></header>
+<div class="container">
+<div class="grid">
+<div class="card"><small>Total Revenue</small><div class="kpi">₹74.33L</div></div>
+<div class="card"><small>Units Sold</small><div class="kpi">543</div></div>
+<div class="card"><small>Avg. Transaction</small><div class="kpi">₹41,292</div></div>
+<div class="card"><small>Top Category</small><div class="kpi">Electronics</div></div>
+</div>
+<div class="section card"><h2>Revenue by Category</h2>
+<p><b>Electronics</b> — ₹5,638,900</p><div class="bar"><div class="fill" style="width:100.0%"></div></div><p><b>Furniture</b> — ₹964,050</p><div class="bar"><div class="fill" style="width:17.1%"></div></div><p><b>Fashion</b> — ₹459,150</p><div class="bar"><div class="fill" style="width:8.1%"></div></div><p><b>Home Appliances</b> — ₹284,800</p><div class="bar"><div class="fill" style="width:5.1%"></div></div><p><b>Accessories</b> — ₹85,690</p><div class="bar"><div class="fill" style="width:1.5%"></div></div>
+</div>
+<div class="section card"><h2>Regional Performance</h2>
+<table><tr><th>Region</th><th>Revenue</th><th>Share</th></tr>
+<tr><td>South</td><td>₹2,686,945</td><td>36.2%</td></tr><tr><td>East</td><td>₹1,962,320</td><td>26.4%</td></tr><tr><td>North</td><td>₹1,959,570</td><td>26.4%</td></tr><tr><td>West</td><td>₹823,755</td><td>11.1%</td></tr>
+</table></div>
+<div class="section card"><h2>Top 5 Products</h2>
+<table><tr><th>Product</th><th>Revenue</th></tr>
+<tr><td>Laptop</td><td>₹3,220,750</td></tr><tr><td>Smartphone</td><td>₹2,230,200</td></tr><tr><td>Office Chair</td><td>₹585,000</td></tr><tr><td>Desk</td><td>₹379,050</td></tr><tr><td>Watch</td><td>₹341,550</td></tr>
+</table></div>
+<div class="section card"><h2>Key Business Insights</h2>
+<ul>
+<li><b>Electronics</b> is the strongest-performing category by revenue.</li>
+<li><b>South</b> is the leading region and can be prioritized for growth campaigns.</li>
+<li><b>Laptop</b> is the highest-revenue product in the dataset.</li>
+<li>The analysis can support product planning, regional targeting and sales forecasting.</li>
+</ul></div>
+</div></body></html>

@@ -1,0 +1,181 @@
+Date,Product,Category,Region,Quantity,Unit_Price,Discount,Revenue
+2026-06-15,Headphones,Electronics,North,4,3500,0,14000
+2026-02-18,Backpack,Accessories,South,5,2200,0,11000
+2026-01-20,Smartphone,Electronics,North,4,28000,0.1,100800.0
+2026-05-04,Smartphone,Electronics,North,5,28000,0.1,126000.0
+2026-03-05,Office Chair,Furniture,West,5,9000,0,45000
+2026-01-26,Office Chair,Furniture,South,1,9000,0.15,7650.0
+2026-05-29,Shoes,Fashion,North,2,3200,0.15,5440.0
+2026-06-07,Coffee Maker,Home Appliances,South,2,4800,0,9600
+2026-07-10,Smartphone,Electronics,North,5,28000,0,140000
+2026-04-16,Watch,Fashion,East,5,5500,0.1,24750.0
+2026-08-27,Blender,Home Appliances,East,4,3200,0.05,12160.0
+2026-05-08,Headphones,Electronics,East,2,3500,0,7000
+2026-09-26,Watch,Fashion,East,3,5500,0.1,14850.0
+2026-02-07,Smartphone,Electronics,South,5,28000,0.1,126000.0
+2026-06-25,Headphones,Electronics,North,4,3500,0.1,12600.0
+2026-02-09,Coffee Maker,Home Appliances,East,5,4800,0.05,22800.0
+2026-06-29,Blender,Home Appliances,West,4,3200,0.15,10880.0
+2026-02-05,Smartphone,Electronics,North,3,28000,0.1,75600.0
+2026-02-01,Desk,Furniture,East,5,7000,0.1,31500.0
+2026-07-17,Backpack,Accessories,East,1,2200,0.1,1980.0
+2026-03-28,Blender,Home Appliances,North,1,3200,0.1,2880.0
+2026-04-22,Desk,Furniture,West,2,7000,0,14000
+2026-07-20,Watch,Fashion,West,1,5500,0,5500
+2026-07-25,Coffee Maker,Home Appliances,West,3,4800,0,14400
+2026-05-23,Shoes,Fashion,South,3,3200,0.1,8640.0
+2026-03-19,Smartphone,Electronics,South,2,28000,0,56000
+2026-04-30,Laptop,Electronics,South,4,65000,0.15,221000.0
+2026-05-15,Desk,Furniture,West,1,7000,0,7000
+2026-07-09,Blender,Home Appliances,South,5,3200,0.05,15200.0
+2026-09-21,Blender,Home Appliances,West,1,3200,0.1,2880.0
+2026-07-23,Shoes,Fashion,West,4,3200,0,12800
+2026-07-25,Laptop,Electronics,South,2,65000,0,130000
+2026-08-14,Headphones,Electronics,North,1,3500,0.05,3325.0
+2026-02-22,Laptop,Electronics,North,5,65000,0,325000
+2026-07-06,Blender,Home Appliances,South,1,3200,0,3200
+2026-07-12,Headphones,Electronics,East,3,3500,0.05,9975.0
+2026-08-31,Smartphone,Electronics,West,1,28000,0.1,25200.0
+2026-09-03,Watch,Fashion,South,3,5500,0,16500
+2026-02-22,Backpack,Accessories,South,3,2200,0.1,5940.0
+2026-09-22,Laptop,Electronics,East,2,65000,0.15,110500.0
+2026-03-17,Coffee Maker,Home Appliances,East,1,4800,0.15,4080.0
+2026-02-16,Desk,Furniture,South,5,7000,0.05,33250.0
+2026-07-02,Office Chair,Furniture,East,5,9000,0.15,38250.0
+2026-04-25,Blender,Home Appliances,West,2,3200,0,6400
+2026-04-27,Office Chair,Furniture,East,5,9000,0.1,40500.0
+2026-01-15,Laptop,Electronics,East,3,65000,0.1,175500.0
+2026-04-10,Blender,Home Appliances,East,3,3200,0.1,8640.0
+2026-07-06,Smartphone,Electronics,South,2,28000,0,56000
+2026-08-29,Office Chair,Furniture,West,3,9000,0,27000
+2026-01-01,Watch,Fashion,North,3,5500,0,16500
+2026-07-18,Office Chair,Furniture,West,4,9000,0,36000
+2026-06-20,Smartphone,Electronics,West,4,28000,0.1,100800.0
+2026-02-13,Headphones,Electronics,North,2,3500,0,7000
+2026-03-19,Blender,Home Appliances,West,4,3200,0,12800
+2026-06-29,Headphones,Electronics,South,5,3500,0.15,14875.0
+2026-01-11,Laptop,Electronics,South,1,65000,0.15,55250.0
+2026-08-11,Office Chair,Furniture,East,2,9000,0,18000
+2026-04-19,Desk,Furniture,East,5,7000,0,35000
+2026-05-13,Coffee Maker,Home Appliances,North,4,4800,0,19200
+2026-07-01,Watch,Fashion,West,5,5500,0.15,23375.0
+2026-09-14,Headphones,Electronics,North,5,3500,0,17500
+2026-08-14,Headphones,Electronics,South,5,3500,0,17500
+2026-03-30,Headphones,Electronics,North,4,3500,0.15,11900.0
+2026-02-01,Backpack,Accessories,West,5,2200,0.15,9350.0
+2026-02-24,Coffee Maker,Home Appliances,South,1,4800,0,4800
+2026-05-22,Laptop,Electronics,West,1,65000,0.15,55250.0
+2026-01-15,Smartphone,Electronics,South,4,28000,0.05,106400.0
+2026-05-22,Watch,Fashion,West,5,5500,0.15,23375.0
+2026-09-17,Office Chair,Furniture,South,5,9000,0.05,42750.0
+2026-08-18,Headphones,Electronics,West,4,3500,0,14000
+2026-08-15,Backpack,Accessories,West,1,2200,0,2200
+2026-02-07,Office Chair,Furniture,South,3,9000,0,27000
+2026-07-07,Headphones,Electronics,West,3,3500,0,10500
+2026-04-23,Smartphone,Electronics,South,4,28000,0.1,100800.0
+2026-04-25,Headphones,Electronics,West,4,3500,0.15,11900.0
+2026-06-23,Shoes,Fashion,East,2,3200,0.05,6080.0
+2026-02-17,Backpack,Accessories,West,1,2200,0.05,2090.0
+2026-08-14,Laptop,Electronics,East,4,65000,0.05,247000.0
+2026-09-20,Smartphone,Electronics,North,1,28000,0,28000
+2026-02-13,Desk,Furniture,South,3,7000,0,21000
+2026-05-19,Headphones,Electronics,West,4,3500,0.05,13300.0
+2026-03-18,Coffee Maker,Home Appliances,West,5,4800,0.15,20400.0
+2026-06-17,Smartphone,Electronics,South,3,28000,0,84000
+2026-08-06,Smartphone,Electronics,North,3,28000,0,84000
+2026-05-14,Smartphone,Electronics,North,5,28000,0,140000
+2026-05-16,Smartphone,Electronics,East,4,28000,0,112000
+2026-08-02,Desk,Furniture,North,5,7000,0,35000
+2026-09-27,Office Chair,Furniture,East,1,9000,0,9000
+2026-01-26,Headphones,Electronics,East,2,3500,0.05,6650.0
+2026-09-29,Office Chair,Furniture,South,3,9000,0.1,24300.0
+2026-05-19,Backpack,Accessories,North,1,2200,0.05,2090.0
+2026-01-08,Laptop,Electronics,South,5,65000,0.15,276250.0
+2026-09-21,Watch,Fashion,North,2,5500,0.1,9900.0
+2026-08-10,Watch,Fashion,East,5,5500,0.1,24750.0
+2026-04-21,Office Chair,Furniture,South,3,9000,0,27000
+2026-07-27,Backpack,Accessories,North,1,2200,0,2200
+2026-02-06,Desk,Furniture,North,4,7000,0,28000
+2026-02-13,Shoes,Fashion,South,5,3200,0.05,15200.0
+2026-05-31,Laptop,Electronics,South,4,65000,0,260000
+2026-05-18,Watch,Fashion,East,1,5500,0.05,5225.0
+2026-06-18,Coffee Maker,Home Appliances,North,3,4800,0,14400
+2026-06-08,Office Chair,Furniture,North,3,9000,0,27000
+2026-06-21,Shoes,Fashion,East,1,3200,0.1,2880.0
+2026-09-15,Office Chair,Furniture,North,2,9000,0.15,15300.0
+2026-02-16,Desk,Furniture,West,1,7000,0,7000
+2026-01-22,Shoes,Fashion,East,1,3200,0.05,3040.0
+2026-04-30,Smartphone,Electronics,South,5,28000,0.15,119000.0
+2026-07-19,Backpack,Accessories,East,4,2200,0,8800
+2026-03-16,Laptop,Electronics,South,5,65000,0.1,292500.0
+2026-09-26,Coffee Maker,Home Appliances,South,5,4800,0,24000
+2026-02-13,Laptop,Electronics,East,1,65000,0,65000
+2026-02-23,Shoes,Fashion,North,4,3200,0.15,10880.0
+2026-01-10,Coffee Maker,Home Appliances,East,2,4800,0.1,8640.0
+2026-01-02,Watch,Fashion,North,1,5500,0.15,4675.0
+2026-09-27,Smartphone,Electronics,North,4,28000,0.05,106400.0
+2026-05-16,Office Chair,Furniture,West,2,9000,0,18000
+2026-09-10,Shoes,Fashion,East,1,3200,0.1,2880.0
+2026-01-24,Blender,Home Appliances,South,2,3200,0,6400
+2026-06-19,Desk,Furniture,South,3,7000,0.15,17850.0
+2026-01-07,Watch,Fashion,East,1,5500,0.1,4950.0
+2026-02-20,Office Chair,Furniture,East,4,9000,0.05,34200.0
+2026-08-26,Watch,Fashion,South,4,5500,0,22000
+2026-06-09,Smartphone,Electronics,East,4,28000,0,112000
+2026-08-23,Smartphone,Electronics,East,5,28000,0.1,126000.0
+2026-07-18,Office Chair,Furniture,North,2,9000,0,18000
+2026-03-14,Coffee Maker,Home Appliances,South,3,4800,0.05,13680.0
+2026-09-18,Desk,Furniture,South,1,7000,0.05,6650.0
+2026-09-12,Watch,Fashion,South,4,5500,0,22000
+2026-01-02,Watch,Fashion,East,4,5500,0.1,19800.0
+2026-03-14,Shoes,Fashion,East,3,3200,0.1,8640.0
+2026-03-03,Backpack,Accessories,East,1,2200,0.05,2090.0
+2026-07-23,Smartphone,Electronics,East,2,28000,0,56000
+2026-05-10,Backpack,Accessories,West,1,2200,0.1,1980.0
+2026-02-09,Backpack,Accessories,North,4,2200,0.05,8360.0
+2026-05-24,Smartphone,Electronics,South,1,28000,0.05,26600.0
+2026-05-08,Desk,Furniture,East,4,7000,0.15,23800.0
+2026-04-08,Backpack,Accessories,West,4,2200,0,8800
+2026-04-15,Smartphone,Electronics,West,1,28000,0.1,25200.0
+2026-03-12,Desk,Furniture,South,4,7000,0,28000
+2026-03-29,Watch,Fashion,East,4,5500,0.05,20900.0
+2026-06-02,Desk,Furniture,South,3,7000,0.1,18900.0
+2026-06-04,Watch,Fashion,North,5,5500,0.1,24750.0
+2026-03-27,Headphones,Electronics,West,1,3500,0,3500
+2026-04-23,Watch,Fashion,West,3,5500,0.1,14850.0
+2026-03-13,Coffee Maker,Home Appliances,North,2,4800,0,9600
+2026-03-31,Backpack,Accessories,East,5,2200,0,11000
+2026-05-03,Backpack,Accessories,South,3,2200,0.15,5610.0
+2026-01-11,Shoes,Fashion,South,4,3200,0.1,11520.0
+2026-07-12,Desk,Furniture,West,3,7000,0,21000
+2026-05-23,Blender,Home Appliances,South,3,3200,0,9600
+2026-02-17,Desk,Furniture,West,2,7000,0.1,12600.0
+2026-08-17,Shoes,Fashion,South,3,3200,0,9600
+2026-01-17,Shoes,Fashion,West,4,3200,0.15,10880.0
+2026-01-01,Smartphone,Electronics,West,4,28000,0.15,95200.0
+2026-08-18,Office Chair,Furniture,South,1,9000,0,9000
+2026-03-19,Coffee Maker,Home Appliances,North,1,4800,0.1,4320.0
+2026-01-21,Laptop,Electronics,North,2,65000,0,130000
+2026-06-05,Headphones,Electronics,West,3,3500,0.15,8925.0
+2026-02-27,Smartphone,Electronics,South,1,28000,0.05,26600.0
+2026-07-18,Desk,Furniture,North,2,7000,0.15,11900.0
+2026-01-06,Coffee Maker,Home Appliances,East,3,4800,0.1,12960.0
+2026-06-11,Office Chair,Furniture,South,4,9000,0.15,30600.0
+2026-05-07,Laptop,Electronics,North,4,65000,0.05,247000.0
+2026-01-12,Office Chair,Furniture,North,4,9000,0.1,32400.0
+2026-05-12,Office Chair,Furniture,South,4,9000,0.05,34200.0
+2026-09-10,Laptop,Electronics,East,3,65000,0.1,175500.0
+2026-07-22,Office Chair,Furniture,North,1,9000,0.05,8550.0
+2026-04-16,Watch,Fashion,South,2,5500,0.05,10450.0
+2026-04-29,Watch,Fashion,East,2,5500,0.05,10450.0
+2026-02-25,Blender,Home Appliances,South,4,3200,0.15,10880.0
+2026-04-25,Watch,Fashion,South,4,5500,0,22000
+2026-07-21,Laptop,Electronics,South,2,65000,0,130000
+2026-08-01,Laptop,Electronics,West,1,65000,0,65000
+2026-08-19,Backpack,Accessories,South,1,2200,0,2200
+2026-06-18,Office Chair,Furniture,West,2,9000,0.15,15300.0
+2026-01-17,Desk,Furniture,East,4,7000,0.05,26600.0
+2026-08-15,Headphones,Electronics,North,1,3500,0,3500
+2026-05-24,Smartphone,Electronics,North,3,28000,0.1,75600.0
+2026-04-17,Shoes,Fashion,West,3,3200,0.05,9120.0
+2026-02-14,Laptop,Electronics,East,4,65000,0,260000
